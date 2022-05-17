@@ -11,6 +11,9 @@ Projeto criado com base na ODS 8:
  8 Trabalho decente e crescimento econômico
  8.9 Até 2030, elaborar e implementar políticas para promover o turismo sustentável, que gera empregos e promove a cultura e os produtos locais.
  
+  <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/972101999095087135/972214133070123038/logoGenTur.png">
+</div>
+ 
  #### Mais sobre a GenTur: #### 
  
 Devido a pandemia 35% das cidades brasileiras que possuem o turismo como atividade principal foram afetadas, e o Brasil teve uma queda em 59%  no faturamento,  58% na economia criativa e 15% dos trabalhadores criativos perderam seus empregos.
