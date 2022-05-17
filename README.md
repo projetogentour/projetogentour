@@ -9,6 +9,7 @@
 
 Projeto criado com base na ODS 8:
  8 Trabalho decente e crescimento econômico
+ 
  8.9 Até 2030, elaborar e implementar políticas para promover o turismo sustentável, que gera empregos e promove a cultura e os produtos locais.
  
   <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971065406712320010/976093502381359124/a_coisa_em_2.png">
